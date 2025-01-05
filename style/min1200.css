@@ -1,0 +1,262 @@
+@media (min-width: 1200px) {
+    .first1 {
+        height: 30%;
+        font-size: 150%;
+        margin-left: 65%;
+    }
+    .first .sleek {
+        display: flex;
+        width: 100%;
+        height: 40%;
+        justify-content: center;
+        align-items: center;
+        gap: 8%;
+       
+    }
+    .sleek .first2 {
+        margin-bottom: 1%;
+        height: 50%;
+    }
+    .sleek .first3  {
+        margin-top: 2%;
+        height: 80%;
+    }
+    .sleek .first3>input {
+        height: 80%;
+    }
+    .sleek .small1 {
+        height: 200%;
+        margin-top: 10%;
+        margin-left: 10%;
+    }
+    .sleek .small2 {
+        font-size: 300%;
+        margin-left: 5%;
+    }
+    .sleek .small3>img {
+        height: 550%;
+    }
+    .sleek .first3 svg {
+        height: 42px;
+        width: 42px;
+    }
+    .sleek .left {
+        height: 50%;
+        width: 17%;
+    }
+    .sleek .left>svg {
+       height: 50px;
+       width: 50px;
+    }
+    .sleek .left>img {
+        height: 100%;
+    }
+    .sleek1 {
+        margin-top: 2%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 1%;
+        list-style: none;
+    }
+    .diff {
+        display: none;
+    }
+    .second1 {
+        width: 32%;
+    }
+    .show {
+        display: none;
+    }
+    .third {
+        width: 100%;
+    }
+    .third1 {
+        width: 100%;
+        justify-content: center;
+        padding: 0;
+        gap: 5%;
+    }
+    .fourth {
+        display: flex;
+        gap: 14%;
+        width: 100%;
+        height: 100%;
+    }
+    .fourth2 {
+        margin-left: 50%;
+    }
+    .fourth4 {
+        width: 100%;
+    }
+    .fourth1 {
+        margin-left: 5%;
+        width: 25%;
+    }
+    .fourth1 h1 {
+        font-size: 200%;
+    }
+    .fourth4 p {
+        font-size: 150%;
+    }
+    .four {
+        width: 20%;
+        margin-left: 80%;
+    }
+    .four h1 {
+        padding: 10%;
+        font-size: 100%;
+    }
+    .big {
+        gap: 10%;
+    }
+    .fifth {
+        height: 400px;
+        width: 100%;
+        padding: 2%;
+    }
+    .fifth1 {
+        font-size: 160%;
+        width: 20%;
+    }
+    .fifth2 {
+        font-size: 100%;
+        width: 9%;
+    }
+    .fifth3 {
+        width: 100%;
+    }
+    .five {
+        width: 100%;
+        gap: 8%;
+    }
+    .sixth {
+        width: 100%;
+        padding: 2%;
+        margin-top: 50%;
+        height: 700px;
+    }
+    
+    .sixth1 {
+        width: 100%;
+    }
+    .sixth2 {
+        font-size: 160%;
+        width: 20%;
+    }
+    .sixth3 {
+        font-size: 80%;
+        width: 7%;
+    }
+    .sixth4 {
+        width: 100%;
+        gap: 8%;
+    }
+    .wham {
+        display: none;
+    }
+    .seventh {
+        width: 100%;
+        padding: 2%;
+        margin-top: 40%;
+        height: 400px;
+    }
+    .seventh1 {
+        width: 100%;
+    }
+    .seventh2 {
+        font-size: 160%;
+        width: 20%;
+    }
+    .seventh3 {
+        font-size: 80%;
+        width: 7%;
+    }
+    .seventh4 {
+        width: 100%;
+        gap: 7%;
+    }
+    .eighth {
+        width: 100%;
+        margin-top: 20%;
+    }
+    .eight2 {
+        padding: 2%;
+        width: 100%;
+        gap: 12%;
+    }
+    .eight3 {
+        margin-left: 50%;
+    }
+    .nineth {
+        display: none;
+    }
+    .tenth {
+        display: none;
+    }
+    .sleekk {
+        margin-top: 10%;
+        height: 572px;
+        width: 100%;
+        display: flex;
+    }
+    .sleekk img {
+        height: 572px;
+        width: 90%;
+        object-fit: cover;
+    }
+    .sleekk div {
+        width: 40%;
+    }
+    .sleekk h1 {
+       margin: 1%;
+       padding: 1%;
+    }
+    .sleekk p {
+        margin: 1%;
+        padding: 1%;
+    }
+    .sleekk button {
+        border: none;
+        background-color: #E75423;
+        color: white;
+        border-radius: 4px;
+        width: 256px;
+        height: 36px;
+        margin: 23px;
+    }
+    .eleventh {
+        width: 95%;
+        height: 350px;
+    } 
+    .same {
+        width: 100%;
+        gap: 15%;
+    }
+    .twelveth {
+        width: 100%;
+        margin-top: 20%;
+    }
+    .twelveth1 {
+        margin-left: 0%;
+    }
+    .twelveth2 {
+        display: flex;
+        gap: 10%;
+        margin: 5%;
+    }
+    .cover {
+        width: 100%;
+    }
+    .size {
+        display: flex;
+        gap: 5%;
+        width: 100%;
+    }
+    .size div {
+        width: 30%;
+    }
+    .size div>h6 {
+        margin: 7%;
+    }
+}

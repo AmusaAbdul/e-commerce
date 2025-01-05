@@ -1,0 +1,54 @@
+@media (min-width: 1600px) {
+    .first1 {
+        height: 30%;
+        font-size: 150%;
+        margin-left: 70%;
+    }
+    .sleek .first3  {
+        width: 100%;
+        height: 80%;
+    }
+    .sleek .first3>input {
+        width: 100%;
+        height: 80%;
+    }
+    .sleek1 {
+        margin-top: 1%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 1%;
+        list-style: none;
+    }
+    .fourth {
+        display: flex;
+        gap: 30%;
+        width: 100%;
+        height: 100%;
+    }
+    .four {
+        width: 20%;
+        margin-left: 80%;
+    }
+    .sixth {
+        width: 100%;
+        padding: 2%;
+        margin-top: 50%;
+        height: 700px;
+    }
+    .seventh {
+        margin-top: 20%;
+    }
+    .eighth {
+        margin-top: 15%;
+    }
+    .eleventh {
+        margin-top: 5%;
+    }
+    .twelveth {
+        margin-top: 25%;
+    }
+    .twelveth1 {
+        margin-left: 2%;
+    }
+}

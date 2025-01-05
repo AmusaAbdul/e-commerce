@@ -1,0 +1,192 @@
+@media (min-width: 900px) and (max-width: 1999px) {
+    .first {
+        width: 100%;
+    }
+    .first .sleek {
+        display: none;
+    }
+    .first1 {
+        margin-left: 60%;
+    }
+    .first3 {
+        width: 95%;
+    }
+    .first3 input {
+        width: 100%;
+    }
+    .left {
+        height: 75%;
+    }
+    .sleek1 {
+        display: none;
+    }
+    .second {
+        width: 100%;
+    }
+    .second1  {
+        width: 70%;
+    }
+    .second img {
+        width: 100%;
+        height: 100%;
+    }
+    .second1 h1 {
+        font-size: 270%;
+    }
+    .second1 p {
+        font-size: 110%;
+    }
+    .third {
+        width: 100%;
+    }
+    .third1 {
+        width: 100%;
+        display: flex;
+        gap: 20%;
+        overflow-x: scroll;
+    }
+    .fourth {
+        width: 100%;
+    }
+    .fourth1 h1 {
+        padding: 1%;
+    }
+    .fourth3 {
+        width: 100%;
+    }
+    .four {
+        margin-left: 90%;
+    }
+    .big {
+        width: 100%;
+        gap: 10%;
+    }
+    .height {
+        width: 100%;
+        object-fit: contain;
+    }
+    .fifth {
+        width: 100%;
+    }
+    .fifth3 {
+        width: 100%;
+    }
+    .five {
+        width: 100%;
+    }
+    .five div {
+        max-width: 22%;
+    }
+    .five img {
+        width: 100%;
+    }
+    .slime img {
+        height: 65%;
+    }
+    .sixth {
+        width: 100%;
+    }
+    .sixth1 {
+        width: 100%;
+    }
+    .sixth4 {
+        width: 100%;
+    }
+    .sixth4 div {
+        max-width: 15%;
+    }
+    .sixth4 img {
+        width: 100%;
+        object-fit: contain;
+    }
+    .seventh {
+        width: 100%;
+        margin-top: -30%;
+    }
+    .seventh1 {
+        width: 100%;
+    }
+    .seventh4 {
+        width: 100%;
+    }
+    .seventh4 div {
+        max-width: 12%;
+    }
+    .seventh4 img {
+        width: 100%;
+        object-fit: contain;
+    }
+    .seventh5 {
+        margin-top: 7%;
+        margin-left: 6.5%;
+    }
+    .eighth {
+        width: 100%;
+        margin-top: -45%;
+    }
+    .eight2 {
+        width: 100%;
+        overflow-x: scroll;
+    }
+    .eight2 img {
+        width: 25%;
+        object-fit: contain;
+    }
+    .eight3 {
+        margin-left: 42%;
+    }
+    .sleekk {
+        display: none;
+    }
+    .nineth {
+        width: 100%;
+        margin-top: 0;
+    }
+    .tenth {
+        width: 100%;
+    }
+    .tenth img {
+        width: 100%;
+    }
+    .eleventh {
+        width: 100%;
+    }
+    .same {
+        width: 90%;
+        margin: 5%;
+        display: flex;
+        gap: 10%;
+    }
+    .same img {
+        object-fit: contain;
+    }
+    .different {
+        margin-left: 20%;
+    }
+    .twelveth {
+        width: 100%;
+        margin-top: -20%;
+    }
+    .twelveth1 {
+        width: 90%;
+    }
+    .twelveth2 {
+        width: 90%;
+    }
+    .heading1 {
+        margin-left: 10%;
+    }
+    .container1 {
+        margin-left: 10%;
+    }
+    .heading2 {
+        margin-left: 10%;
+    }
+    .images {
+        margin-left: 10%;
+    }
+    .size {
+        margin-left: 20%;
+        width: 100%;
+    }
+}
